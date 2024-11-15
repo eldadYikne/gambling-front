@@ -1,0 +1,32 @@
+@import "./variables.scss";
+
+.navbar {
+  background-color: var(--color-green);
+  color: var(--color-dark-gray-3);
+  height: 75px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px 15px 40px;
+  @media (max-width: $mobile-width) {
+    height: 62px;
+    padding: 15px 12px 15px 12px;
+  }
+  .logo {
+    font-size: 3rem;
+  }
+  .navlinks-container {
+    font-size: 1rem;
+    font-weight: 600;
+    gap: 2rem;
+    color: #333f48;
+    cursor: pointer;
+
+    .navlink {
+      &:hover {
+        box-shadow: 0 4px 2px -2px black;
+      }
+    }
+  }
+}

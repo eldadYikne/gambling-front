@@ -1,0 +1,55 @@
+@import "./variables.scss";
+
+.games-container {
+  display: flex;
+  gap: 16px;
+  & .swiper-slide {
+    width: max-content !important;
+  }
+}
+.game-preview {
+  background-color: var(--color-light-gray-2);
+  padding: 6px;
+  justify-content: space-around;
+  border-radius: 10px;
+  height: 183px;
+  width: 308px;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  .game-odd {
+    width: 100%;
+    background-color: var(--color-light-gray-1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    padding: 10px;
+    .odd-id {
+      color: var(--color-medium-gray);
+    }
+  }
+  @media (max-width: $mobile-width) {
+    width: 231px;
+    height: 120px;
+    font-size: 10px;
+  }
+}
+.title {
+  color: var(--color-green);
+  font-size: 1.5rem;
+}
+.fade {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all 0.8s ease;
+}
+
+.fade.show {
+  max-height: 600px;
+  opacity: 1;
+}

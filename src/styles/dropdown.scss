@@ -1,0 +1,22 @@
+.dropdown {
+  position: relative;
+  button {
+    // background-color: var(--color-green);
+    border-radius: 0.5rem;
+  }
+  .rs-dropdown-menu {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    gap: 4px;
+    padding: 5px;
+    right: 0;
+    li {
+      border-radius: 5px;
+
+      &:hover {
+        background-color: var(--color-light-gray-2);
+      }
+    }
+  }
+}

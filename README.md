@@ -24,8 +24,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="src/assets/images/infinity.svg" alt="Logo" width="80" height="80">
-  <h3 align="center">Angulik </h3>
+    <img src="public/coin.svg" alt="Logo" width="80" height="80">
+  <h3 align="center">Gambling Front </h3>
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-An app I wrote with Angular,His goal is to get to know me a little, get information about me .[ Take a look, it's Here!](https://angulik.onrender.com)
+An app I wrote with React,His goal is to get information about gamebling .[ Take a look, it's Here!](https://angulik.onrender.com)
 ![Home page image](src/assets/images/angulik-home.png "Homepage")
 </a>
 
@@ -53,8 +53,7 @@ An app I wrote with Angular,His goal is to get to know me a little, get informat
 
 ### Built With
 
-- [![Angular][Angular.io]][Angular-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- [![React][React.io]][React-url]
 - [![TypeScript][TypeScript.com]][TypeScript-url]
 - [![Sass][Sass.com]][Sass-url]
 
@@ -95,11 +94,11 @@ And a bit about the project - a small App that was built in a one day.
 
 #### Technologies
 
-- Angular
-- Angular-Router
+- React
+- React-Router
 - Sass
 - Bootstrap
-- Angular CLI & Github pages
+- React CLI & Github pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
@@ -128,7 +127,7 @@ You can view different projects.
 
 ### Contact
 
-You can try using the angular form, it's simple and looks great!
+You can try using the React form, it's simple and looks great!
 
 ![Contacts page image](src/assets/images/angulik-contact.png "Contacts page")
 
@@ -158,10 +157,10 @@ You can try using the angular form, it's simple and looks great!
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Angular.js]: https://img.shields.io/badge/Angular.js-35495E?style=for-the-badge&logo=Angulardotjs&logoColor=4FC08D
-[Angular-url]: https://Angularjs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
+[React.js]: https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=Reactdotjs&logoColor=4FC08D
+[React-url]: https://Reactjs.org/
+[React.io]: https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=React&logoColor=white
+[React-url]: https://React.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
