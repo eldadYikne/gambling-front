@@ -4,7 +4,7 @@ function Dots(props: { number: number }) {
   }
   return (
     <div className="flex gap-2 py- justify-center">
-      {createArray(props.number).map((dot) => (
+      {createArray(props.number).map(() => (
         <span className="w-2 h-2 bg-[#79c000]"></span>
       ))}
     </div>

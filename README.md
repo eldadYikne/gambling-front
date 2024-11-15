@@ -68,7 +68,7 @@ An app I wrote with React,His goal is to get information about gamebling .[ Take
 1. Clone the repo
 
    ```sh
-    git clonehttps://github.com/eldadYikne/angulik.git
+    git clone https://github.com/eldadYikne/gambling-front.git
 
    ```
 
@@ -79,7 +79,7 @@ An app I wrote with React,His goal is to get information about gamebling .[ Take
 3. Open the terminal and enter the following line
 
    ```js
-   npm start
+   npm run dev
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -105,31 +105,13 @@ And a bit about the project - a small App that was built in a one day.
 
 ## Contact
 
-Eldad yikne - [Linkedin](https://www.linkedin.com/404/) - nmknv99@gmail.com
+Eldad yikne - [Linkedin](https://www.linkedin.com/404/) - eldadykn@gmail.com
 
 Project Link: [https://angulik.onrender.com](https://angulik.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-
-## Showcase
-
-### Education page
-
-![ page image](src/assets/images/angulik-education.png "Education page")
-
-### Practical page
-
-You can view different projects.
-
-![Contacts page image](src/assets/images/angulik-practical.png "PRACTICAL page")
-
-### Contact
-
-You can try using the React form, it's simple and looks great!
-
-![Contacts page image](src/assets/images/angulik-contact.png "Contacts page")
 
 ## Mobile full responsive
 
@@ -139,37 +121,3 @@ You can try using the React form, it's simple and looks great!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/eldad-yikne-639407247/
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[React.js]: https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=Reactdotjs&logoColor=4FC08D
-[React-url]: https://Reactjs.org/
-[React.io]: https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=React&logoColor=white
-[React-url]: https://React.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[TypeScript.com]: https://img.shields.io/badge/TypeScript-0202d1?style=for-the-badge&logo=TypeScript&logoColor=white
-[TypeScript-url]: https://www.typescriptlang.org/
-[Sass.com]: https://img.shields.io/badge/Sass-red?style=for-the-badge&logo=Sass&logoColor=white
-[Sass-url]: https://sass-lang.com/
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
