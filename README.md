@@ -33,7 +33,7 @@
 
 ## About The Project
 
-An app I wrote with React,His goal is to get information about gamebling .[ Take a look, it's Here!](https://angulik.onrender.com)
+An app I wrote with React,His goal is to get information about gamebling .
 ![Home page image](src/assets/screenshot1.png "Homepage")
 ![Home page image](src/assets/screenshot2.png "Homepage")
 </a>
