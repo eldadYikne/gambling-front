@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Game, Odd } from "../types/game";
+import { Game } from "../types/game";
 import GamePreview from "./GamePreview";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { FreeMode } from "swiper/modules";

@@ -1,5 +1,5 @@
 import { Game } from "../types/game";
-import { formatDate, getCurrentDate } from "../utils";
+import { formatDate } from "../utils";
 
 function GamePreview(props: Props) {
   const oddsCharts: string[] = ["1", "X", "2"];
@@ -17,7 +17,7 @@ function GamePreview(props: Props) {
         <span>{props.game.games[2].name}</span>
       </div>
       <div className="flex w-full justify-around gap-1">
-        {props.game.games.map((game, i) => {
+        {props.game.games.map((game) => {
           return (
             <div key={game.name} className="game-odd ">
               <span className="odd-id">{oddsCharts[game.sortOrder]}</span>
