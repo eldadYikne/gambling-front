@@ -46,7 +46,7 @@ function Banner() {
             <SwiperSlide key={image}>
               <img
                 className="w-full"
-                src={`/src/assets/images/${image}.png`}
+                src={`src/assets/images/${image}.png`}
                 alt={`Banner image ${index}`}
               />
             </SwiperSlide>

@@ -16,7 +16,7 @@ function PromoBanner(props: Props) {
             <img
               key={image}
               className="w-full"
-              src={`/src/assets/images/${image}.png`}
+              src={`src/assets/images/${image}.png`}
               alt={`Banner image ${image}`}
             />
           );

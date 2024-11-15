@@ -36,7 +36,7 @@ function GameDetail(props: Props) {
                       <img
                         key={icon.image}
                         className=""
-                        src={`/src/assets/images/${icon.image}.png`}
+                        src={`src/assets/images/${icon.image}.png`}
                         alt={`Banner image ${icon.image}`}
                       />
                       <span className="text-white text-[10px]">
@@ -57,7 +57,7 @@ function GameDetail(props: Props) {
               <img
                 key={gameDetail.image}
                 className="w-full h-full"
-                src={`/src/assets/images/${gameDetail.image}.png`}
+                src={`src/assets/images/${gameDetail.image}.png`}
                 alt={`Banner image ${gameDetail.image}`}
               />
             </div>
