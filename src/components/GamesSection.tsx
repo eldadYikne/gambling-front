@@ -78,7 +78,7 @@ function GamesSection() {
           {games.length > 0 &&
             [...games, ...gamesSortBy].map((game, i) => {
               return (
-                <SwiperSlide key={`${game.nodeId ?? "" + i}` ?? game.name}>
+                <SwiperSlide key={`${game?.nodeId + i}` ?? game.name}>
                   <GamePreview game={game} />
                 </SwiperSlide>
               );
