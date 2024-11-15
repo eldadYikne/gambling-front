@@ -35,6 +35,7 @@
 
 An app I wrote with React,His goal is to get information about gamebling .[ Take a look, it's Here!](https://angulik.onrender.com)
 ![Home page image](src/assets/screenshot1.png "Homepage")
+![Home page image](src/assets/screenshot2.png "Homepage")
 </a>
 
 #### Table of Contents
@@ -48,14 +49,7 @@ An app I wrote with React,His goal is to get information about gamebling .[ Take
     </li>
     <li><a href="#description">Description</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#showcase">Showcase</a></li>
   </ul>
-
-### Built With
-
-- [![React][React.io]][React-url]
-- [![TypeScript][TypeScript.com]][TypeScript-url]
-- [![Sass][Sass.com]][Sass-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,9 +89,10 @@ And a bit about the project - a small App that was built in a one day.
 #### Technologies
 
 - React
-- React-Router
 - Sass
-- Bootstrap
+- Swiper
+- Redux
+- react-suite
 - React CLI & Github pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,9 +110,13 @@ Project Link: [https://angulik.onrender.com](https://angulik.onrender.com)
 
 ## Mobile full responsive
 
-![](src/assets/screenshot3.png "Contacts page")
-![](src/assets/screenshot3.png "Contacts page")
-
+<table>
+  <tr>
+    <td valign="top"><img src="src/assets/screenshot3.png"/></td>
+    <td valign="top"><img src="src/assets/screenshot4.png"/></td>
+    <td valign="top"><img src="src/assets/screenshot5.png"/></td>
+  </tr>
+</table>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
