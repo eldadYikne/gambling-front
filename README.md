@@ -34,7 +34,7 @@
 ## About The Project
 
 An app I wrote with React,His goal is to get information about gamebling .[ Take a look, it's Here!](https://angulik.onrender.com)
-![Home page image](src/assets/images/angulik-home.png "Homepage")
+![Home page image](src/assets/screenshot1.png "Homepage")
 </a>
 
 #### Table of Contents
@@ -115,7 +115,8 @@ Project Link: [https://angulik.onrender.com](https://angulik.onrender.com)
 
 ## Mobile full responsive
 
-![Contacts page image](src/assets/images/angulik-mobile.png "Contacts page")
+![](src/assets/screenshot3.png "Contacts page")
+![](src/assets/screenshot3.png "Contacts page")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
