@@ -55,7 +55,7 @@ function GameForm({ addNewGame, setIsFormOpen }: Props) {
 
   const onSubmit = () => {
     const gameName = `${newGame.games[0].name} - ${newGame.games[2].name}`;
-    const gameWithNewId = { ...newGame, name: gameName, nodeId: uuidv4() }; // New ID each submit
+    const gameWithNewId = { ...newGame, name: gameName, nodeId: uuidv4() };
     const validation = model.check({
       name0: gameWithNewId.games[0].name,
       name2: gameWithNewId.games[2].name,
